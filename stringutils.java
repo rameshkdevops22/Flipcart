@@ -1,1 +1,3 @@
-this file contains string related code
+this file contains string related commands
+hi vithal
+Good morning
